@@ -1,0 +1,28 @@
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.exe
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.deps.json
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.json
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.dev.json
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\bin\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.AssemblyReference.cache
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfoInputs.cache
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfo.cs
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.CoreCompileInputs.cache
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\ANDJ\OneDrive - Herningsholm Erhvervsskole\Programmering C#\Filhåndtering og Trinvis forbedring\Skrive til filer SVG\svg-template\obj\Debug\netcoreapp3.1\svg-template.genruntimeconfig.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.exe
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.deps.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.dev.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\bin\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.AssemblyReference.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfoInputs.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfo.cs
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.CoreCompileInputs.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.genruntimeconfig.cache
