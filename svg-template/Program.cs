@@ -59,6 +59,7 @@ namespace svg_template
             
             shapes = shapes + leo.draw_rect(100,  300, 400, 375, "#Fcb450");
             shapes = shapes + leo.draw_triangle(850,500,490,300,490,700,"#43aa8b");
+
             shapes = shapes + leo.draw_circle(100, 500, 75, "#Ff006e");
             shapes = shapes + leo.draw_circle(850, 500, 75, "#Ff006e");
             
