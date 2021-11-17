@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\KrogGIT\\svg-template\\svg-template.csproj": {}
+    "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\Kr0gZPublic\\svg-template\\svg-template.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\KrogGIT\\svg-template\\svg-template.csproj": {
+    "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\Kr0gZPublic\\svg-template\\svg-template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\KrogGIT\\svg-template\\svg-template.csproj",
+        "projectUniqueName": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\Kr0gZPublic\\svg-template\\svg-template.csproj",
         "projectName": "svg-template",
-        "projectPath": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\KrogGIT\\svg-template\\svg-template.csproj",
+        "projectPath": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\Kr0gZPublic\\svg-template\\svg-template.csproj",
         "packagesPath": "C:\\Users\\rasmk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\KrogGIT\\svg-template\\obj\\",
+        "outputPath": "C:\\Users\\rasmk\\Desktop\\Programmeringsfiler\\Kr0gZPublic\\svg-template\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rasmk\\AppData\\Roaming\\NuGet\\NuGet.Config",

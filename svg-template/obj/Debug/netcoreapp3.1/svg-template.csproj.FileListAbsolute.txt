@@ -26,3 +26,17 @@ C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcor
 C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.dll
 C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.pdb
 C:\Users\rasmk\Desktop\Programmeringsfiler\KrogGIT\svg-template\obj\Debug\netcoreapp3.1\svg-template.genruntimeconfig.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.exe
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.deps.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.runtimeconfig.dev.json
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\bin\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.AssemblyReference.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfoInputs.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.AssemblyInfo.cs
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.csproj.CoreCompileInputs.cache
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.dll
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.pdb
+C:\Users\rasmk\Desktop\Programmeringsfiler\Kr0gZPublic\svg-template\obj\Debug\netcoreapp3.1\svg-template.genruntimeconfig.cache
